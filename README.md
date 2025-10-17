@@ -75,10 +75,10 @@ intervals or on the same day to avoid errors.
 
 ## `文件說明`
 
-#### `Week 5-6 Data Preprocessing HW`
+#### `Week 5-6 Data Preprocessing HW.Rmd`
 使用R markdown製作的報告檔案，包含程式碼以及相關圖表與闡述。
 
-#### `Week 5-6 Data Preprocessing HW.pdf`
+#### `Week-5-6-Data-Preprocessing-HW.pdf`
 報告的pdf檔。
 
 #### `data raw`
